@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @Prabhatyadav60
 - 👀 I’m interested in Open Source Contributions and Competetive Programming 
-- 🌱 I’m currently learning JavaScript and React 
 - 😄 Pronouns:He/Him
 - ⚡ Fun fact: Still loading....
 
