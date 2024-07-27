@@ -39,8 +39,10 @@
 </a>
 &nbsp;
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Prabhatyadav60)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Prabhatyadav60&theme=blueberry&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
 &nbsp;
+## 😂 Here is a random joke that'll make you laugh!
+![Jokes Card](https://readme-jokes.vercel.app/api)
 
 ### 🤝🏻 &nbsp;Connect with Me
 
