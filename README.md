@@ -34,13 +34,15 @@
 
 ### ⚙️ &nbsp;GitHub Analytics
 &nbsp;
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Prabhatyadav60&theme=blueberry&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
+&nbsp;
+
 <a href="https://github.com/Prabhatyadav60">
  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Prabhatyadav60&show_icons=true&theme=dark&line_height=27" alt="Prabhat's github stats"/>&nbsp;
 </a>
 &nbsp;
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Prabhatyadav60&theme=blueberry&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
-&nbsp;
+
 ## 😂 Here is a random joke that'll make you laugh!
 ![Jokes Card](https://readme-jokes.vercel.app/api)
 
