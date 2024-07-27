@@ -5,7 +5,7 @@
 ### 👨🏻‍💻 &nbsp;About Me
 
 💡 &nbsp;I like to explore new technologies and develop software solutions and quick hacks.\
-🎓 &nbsp;I'm currently pursuing B.Tech (Information Technology) at the Madan Mohan Malviya University og Technology.\
+🎓 &nbsp;I'm currently pursuing B.Tech (Information Technology) at the Madan Mohan Malviya University of Technology.\
 ✍️ &nbsp;I am interested in Competitive Programming and Open Source contributions.\
 ✉️ &nbsp;You can shoot me an email at trollhunters287@gmail.com ! I'll try to respond as soon as I can.
 
