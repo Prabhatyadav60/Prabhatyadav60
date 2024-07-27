@@ -30,11 +30,17 @@
 
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
 
-### ⚙️ &nbsp;GitHub Analytics
 
+
+### ⚙️ &nbsp;GitHub Analytics
+&nbsp;
 <a href="https://github.com/Prabhatyadav60">
- <img align="center" src="https://github-readme-stats.vercel.app/api?username=Prabhatyadav60&show_icons=true&theme=dark&line_height=27" alt="Prabhat's github stats"/>
+ <img align="center" src="https://github-readme-stats.vercel.app/api?username=Prabhatyadav60&show_icons=true&theme=dark&line_height=27" alt="Prabhat's github stats"/>&nbsp;
 </a>
+&nbsp;
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Prabhatyadav60)](https://git.io/streak-stats)
+&nbsp;
 
 ### 🤝🏻 &nbsp;Connect with Me
 
