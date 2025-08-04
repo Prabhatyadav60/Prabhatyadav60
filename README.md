@@ -41,7 +41,7 @@
  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Prabhatyadav60&show_icons=true&theme=dark&line_height=27" alt="Prabhat's github stats"/>&nbsp;
 </a>
 &nbsp;
-
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Prabhatyadav60&label=Profile%20views&color=0e75b6&style=flat" alt="Prabhat Yadav" /> </p>
 
 ## 😂 Here is a random joke that'll make you laugh!
 ![Jokes Card](https://readme-jokes.vercel.app/api)
